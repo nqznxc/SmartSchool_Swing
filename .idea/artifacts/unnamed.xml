@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="SmartSchool_Swing" />
+      <element id="library" level="project" name="JGoodies Forms" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.37" />
+      <element id="library" level="project" name="TableLayout" />
+    </root>
+  </artifact>
+</component>
